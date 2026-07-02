@@ -24,8 +24,6 @@ library(data.table)
 library(zoo)
 library(gratia)
 
-remotes::install_github("jkominoski/repository")
-
 dom <- read.csv("FCE_DOM_Compiled_060726.csv")
 dom <-na.omit(dom)
 View(dom)
