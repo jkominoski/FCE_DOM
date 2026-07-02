@@ -6,7 +6,8 @@ date: "2026-07-02"
 ---
 Repository for fluorescence dissolved organic matter (DOM) data from 2012-2022 from the Florida Coastal Everglades LTER 
 
-https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png
+[![Creative Commons License](https://creativecommons.org)](http://creativecommons.org)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org).
 
 FCE_DOM (c) by John Kominoski
 
